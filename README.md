@@ -1,6 +1,6 @@
 # 👨🏻‍💻 Pablo Guerra  
 
-**`Desenvolvedor FullStack`**  
+**`Developer FullStack`**  
 
 Me chamo Pablo Guerra Prado, tenho 18 anos e sou natural de São Paulo/SC. Concluí o ensino médio no IEBGAG, com curso técnico em informática. Atualmente, estou cursando Ciência da Computação na Unisosiesc e crio projetos Web & Automações.  
 
@@ -8,7 +8,7 @@ Busco na tecnologia um meio de criar soluções eficientes e inovadoras. Meu foc
 
 ---
 
-###`🛠 Linguagens e Tecnologias`###  
+`🛠  Skills and Technologies`  
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" title="HTML" width="40px"/>
