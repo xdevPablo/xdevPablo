@@ -8,7 +8,7 @@ Busco na tecnologia um meio de criar soluções eficientes e inovadoras. Meu foc
 
 ---
 
-`🛠  Skills and Technologies`  
+### 🛠  Skills and Technologies  
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" title="HTML" width="40px"/>
