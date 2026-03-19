@@ -2,7 +2,7 @@
 
 **`Developer FullStack`**  
 
-Me chamo Pablo Guerra Prado, tenho 18 anos e sou natural de São Paulo/SP. Com curso técnico em informática. Atualmente, estou cursando Ciência da Computação na Unisosiesc e crio projetos Web & Automações.  
+Me chamo Pablo Guerra Prado, tenho 19 anos e sou natural de São Paulo/SP. Com curso técnico em informática. Atualmente, estou cursando Ciência da Computação na Unisosiesc e crio projetos Web & Automações.  
 
 ---
 
