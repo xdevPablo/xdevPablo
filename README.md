@@ -1,4 +1,4 @@
-# 👨🏻‍💻 Pablo Guerra  
+#  Pablo Guerra  
 
 **`Developer FullStack`**  
 
@@ -6,7 +6,7 @@ Me chamo Pablo Guerra Prado, tenho 19 anos e sou natural de São Paulo/SP. Com c
 
 ---
 
-### 🛠  Skills and Technologies  
+###   Skills and Technologies  
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" title="HTML" width="40px"/>
@@ -27,16 +27,4 @@ Me chamo Pablo Guerra Prado, tenho 19 anos e sou natural de São Paulo/SP. Com c
 
 <a href="https://github.com/xdevPablo/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xdevPablo&layout=compact&theme=dark&hide_border=true"/>
-</a>  
-
----
-
-### ➤ Social Media  
-
-<a href="https://www.linkedin.com/in/pablo-guerra-49968a33b/">
-  <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" title="LinkedIn" width="32px"/>
-</a>  
-
-<a href="https://www.instagram.com/xdev.pablo__/">
-  <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" title="Instagram" width="32px"/>
 </a>  
