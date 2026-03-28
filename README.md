@@ -15,12 +15,3 @@
 
 ---
 
-###   GitHub Stats  
-
-<a href="https://github.com/xdevPablo/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=xdevPablo&show_icons=true&theme=dark&hide_border=true" alt="Pablo's GitHub Stats"/>
-</a>  
-
-<a href="https://github.com/xdevPablo/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xdevPablo&layout=compact&theme=dark&hide_border=true"/>
-</a>  
