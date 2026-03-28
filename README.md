@@ -2,10 +2,6 @@
 
 **`Developer FullStack`**  
 
-Me chamo Pablo Guerra Prado, tenho 19 anos e sou natural de São Paulo/SP. Com curso técnico em informática. Atualmente, estou cursando Ciência da Computação na Unisosiesc e crio projetos Web & Automações.  
-
----
-
 ###   Skills and Technologies  
 
 <p align="left">
@@ -19,7 +15,7 @@ Me chamo Pablo Guerra Prado, tenho 19 anos e sou natural de São Paulo/SP. Com c
 
 ---
 
-###  📊 GitHub Stats  
+###   GitHub Stats  
 
 <a href="https://github.com/xdevPablo/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=xdevPablo&show_icons=true&theme=dark&hide_border=true" alt="Pablo's GitHub Stats"/>
