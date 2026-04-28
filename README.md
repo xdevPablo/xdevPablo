@@ -48,11 +48,12 @@ Foco Principal:  IA Aplicada, Cyber Threat Intelligence, OSINT & Automação
 
 ---
 
-<h3 align="left">📊 GitHub Analytics & Activity</h3>
+<h2 align="center">📊 GitHub Analytics & Activity</h2>
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=xdevPablo&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xdevPablo&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens Mais Usadas"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=xdevPablo&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub"/>
+  &nbsp;
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xdevPablo&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens Mais Usadas"/>
 </div>
 
 <br>
