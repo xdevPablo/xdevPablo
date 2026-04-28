@@ -69,8 +69,12 @@ Atuo como desenvolvedor full-stack com ênfase em performance, construção de f
 ## 📫 Contact
 
 <p align="center">
-  <a href="https://github.com/xdevPablo">
-    <img src="https://img.shields.io/badge/GitHub-@xdevPablo-black?logo=github"/>
+  <a href="https://github.com/xdevPablo" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-xdevPablo-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/pablo-guerra-prado-49968a33b/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Pablo%20Guerra%20Prado-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
 
