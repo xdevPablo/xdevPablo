@@ -1,16 +1,18 @@
-<h1 align="center">Pablo Guerra Prado</h1>
-
-<p align="center">
-  Full-Stack Developer • Automation • AI • Problem Solving
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Computer%20Science-2nd%20Year-blue" />
-  <img src="https://img.shields.io/badge/Focus-Automation%20%26%20Optimization-informational" />
-  <img src="https://img.shields.io/badge/AI-Efficient%20Systems-8A2BE2" />
-</p>
-
----
+<div align="center">
+  <h1>Pablo Guerra Prado</h1>
+  
+  <a href="https://github.com/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&pause=1000&color=C9D1D9&center=true&vCenter=true&width=400&lines=Full-Stack+Developer;Automation+Engineer;AI+%26+Security" alt="Typing SVG" />
+  </a>
+  
+  <p>Building scalable tools, automation pipelines, and intelligent systems.</p>
+  
+  <p>
+    <img src="https://img.shields.io/badge/Computer%20Science-2nd%20Year-0D1117?style=for-the-badge&logo=gitbook&logoColor=white" alt="CS Degree" />
+    <img src="https://img.shields.io/badge/Automation-High%20Performance-0D1117?style=for-the-badge&logo=gnubash&logoColor=white" alt="Automation" />
+    <img src="https://img.shields.io/badge/AI%20&%20OSINT-Practical%20Applications-0D1117?style=for-the-badge&logo=kalilinux&logoColor=white" alt="AI & Cyber" />
+  </p>
+</div>
 
 ## 🧠 About Me
 
