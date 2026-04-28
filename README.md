@@ -64,13 +64,13 @@ Foco Principal:  IA Aplicada, Cyber Threat Intelligence, OSINT & Automação
 
 ---
 
-<h3 align="center">🚀 Foco & Destaques</h3>
+<h3 align="center"><b>⚡ Core Focus & Highlights</b></h3>
 
 <div align="center">
   <table>
     <tr>
       <td width="50%" valign="top">
-        <h4 align="center">🎯 Focus Areas</h4>
+        <h4 align="center">⚙️ Focus Areas</h4>
         <ul>
           <li>Automação de processos e workflows</li>
           <li>Desenvolvimento de ferramentas inteligentes</li>
@@ -79,7 +79,7 @@ Foco Principal:  IA Aplicada, Cyber Threat Intelligence, OSINT & Automação
         </ul>
       </td>
       <td width="50%" valign="top">
-        <h4 align="center">📌 Highlights</h4>
+        <h4 align="center">💡 Highlights</h4>
         <ul>
           <li>Projetos em automação e análise de dados</li>
           <li>Construção de pipelines com IA aplicada</li>
