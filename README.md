@@ -14,23 +14,37 @@
   </p>
 </div>
 
+----
+
+
 ## 🧠 About Me
 
-Estudante do 2º ano de Ciência da Computação com foco em automação, otimização de sistemas e aplicação prática de inteligência artificial.
+Estudante do 2º ano de Ciência da Computação. Atuo como desenvolvedor full-stack com ênfase em performance, construção de ferramentas eficientes e soluções orientadas a dados. Meu foco principal é transformar processos manuais e complexos em sistemas automatizados e inteligentes.
 
-Atuo como desenvolvedor full-stack com ênfase em performance, construção de ferramentas eficientes e soluções orientadas a dados.
+```yaml
+⚙️ Perfil Técnico
+-----------------
+Formação:        Ciência da Computação (2º Ano)
+Atuação:         Full-Stack Developer & Automation Engineer
+Core Stack:      Python, Next.js, TypeScript, Node.js 
+Foco Principal:  IA Aplicada, Cyber Threat Intelligence, OSINT & Automação
+```
 
----
 
-## ⚙️ Skills & Technologies
+<h2 align="center">⚙️ Skills & Technologies</h2>
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" width="40px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="NodeJS" width="40px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML" width="40px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" width="40px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="GitHub" width="40px"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </p>
+
 
 ---
 
