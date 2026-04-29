@@ -95,7 +95,7 @@ Foco Principal:  IA Aplicada, Cyber Threat Intelligence, OSINT & Automação
 <h3 align="center"><b>📫 Connect with me</b></h3>
 
 <p align="center">
-  <a href="pabloulifeguerra@gmail.com" target="_blank">
+  <a href="mailto:pabloulifeguerra@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   &nbsp;
@@ -105,6 +105,10 @@ Foco Principal:  IA Aplicada, Cyber Threat Intelligence, OSINT & Automação
   &nbsp;
   <a href="https://github.com/xdevPablo" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  &nbsp;
+  <a href="https://pabloguerrapradoportfolio.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
 </p>
 
