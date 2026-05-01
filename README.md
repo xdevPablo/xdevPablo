@@ -50,17 +50,17 @@ Foco Principal:  IA Aplicada, Cyber Threat Intelligence, OSINT & Automação
 
 <h2 align="center">📊 GitHub Analytics & Activity</h2>
 
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=xdevPablo&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub"/>
-  &nbsp;
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xdevPablo&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens Mais Usadas"/>
-</div>
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=xdevPablo&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub"/>
+&nbsp;
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xdevPablo&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens Mais Usadas"/>
+</p>
 
 <br>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=xdevPablo&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</div>
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=xdevPablo&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</p>
 
 ---
 
