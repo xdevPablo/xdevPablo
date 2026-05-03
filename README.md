@@ -112,4 +112,5 @@ Foco Principal:  IA Aplicada, Cyber Threat Intelligence, OSINT & Automação
   </a>
 </p>
  
+
 ---
