@@ -2,7 +2,7 @@
   <h1>Pablo Guerra Prado</h1>
   
   <a href="https://github.com/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&pause=1000&color=C9D1D9&center=true&vCenter=true&width=400&lines=Full-Stack+Developer;Automation+Engineer;AI+%26+Security" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&pause=1000&color=C9D1D9&center=true&vCenter=true&width=400&lines=Full-Stack+Soft+Engineer;Automation;AI+%26+Security" alt="Typing SVG" />
   </a>
   
   <p>Building scalable tools, automation pipelines, and intelligent systems.</p>
