@@ -48,17 +48,17 @@ Foco Principal:  IA Aplicada, Cyber Threat Intelligence, OSINT & Automação
 
 ---
 
-<h2 align="center">📊 GitHub Analytics & Activity</h2>
+<div align="center">
+  <h2>📊 Estatísticas & Atividades</h2>
+  
+  <br />
 
-<p align="center">
-<img height="170" src="https://meu-github-statss.vercel.app/api?username=xdevPablo&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&v=2" alt="Estatísticas do GitHub"/>
-&nbsp;
-<img height="170" src="https://meu-github-statss.vercel.app/api/top-langs/?username=xdevPablo&layout=compact&theme=dracula&hide_border=true&v=2" alt="Linguagens Mais Usadas"/>
-</p>
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=xdevPablo&theme=tokyonight&hide_border=true&v=1" alt="GitHub Streak"/>
-</p>
+  <p align="center">
+    <img height="180" src="https://meu-github-statss.vercel.app/api?username=xdevPablo&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&v=5&bg_color=000000&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="Estatísticas do GitHub" />
+    &nbsp;&nbsp;
+    <img height="180" src="https://meu-github-statss.vercel.app/api/top-langs/?username=xdevPablo&layout=compact&hide_border=true&v=5&bg_color=000000&title_color=58A6FF&text_color=C9D1D9&custom_title=Linguagens%20Mais%20Usadas" alt="Linguagens Mais Usadas" />
+  </p>
+</div>
 
 ---
 
